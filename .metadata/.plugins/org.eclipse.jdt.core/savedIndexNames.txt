@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\DELL\Desktop\JAVA\operações de conjunto no Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3151711013.index
+947866337.index
